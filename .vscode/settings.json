@@ -1,0 +1,10 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/canonical/subiquity/main/autoinstall-schema.json": "user-data",
+        "https://raw.githubusercontent.com/canonical/subiquity/22.10.1/autoinstall-schema.json": [
+            "user-data",
+            "file:///b%3A/local_git/autoinstall-example/user-data",
+            "file:///b%3A/local_git/autoinstall-example/autoinstall.yml"
+        ]
+    }
+}
